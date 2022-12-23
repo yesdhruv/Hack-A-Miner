@@ -22,7 +22,6 @@ button {
 	align-items: center;
 	justify-content: space-between;
 	background-color: #9e8b92a2;
-	position: sticky;
 	top: 0;
 	z-index: 10;
 }
