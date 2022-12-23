@@ -42,6 +42,10 @@ export default function SupportUs() {
   };
 
   return (
+    <>
+    <p className="credit-card w-full text-center lg:w-1/2 sm:w-auto shadow-lg mx-auto rounded-xl bg-white text-base font-light leading-relaxed mt-0 mb-4 text-fuchsia-800 shadow-lg mx-auto rounded-xl bg-white text-base font-light leading-relaxed mt-0 mb-4 text-fuchsia-800 ">
+      Support this Project ! 
+  </p>
     <form className="m-4" onSubmit={handleSubmit}>
       <div className="credit-card w-full lg:w-1/2 sm:w-auto shadow-lg mx-auto rounded-xl bg-white">
         <main className="mt-4 p-4">
@@ -79,5 +83,6 @@ export default function SupportUs() {
         </footer>
       </div>
     </form>
+</>
   );
 }
