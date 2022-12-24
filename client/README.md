@@ -1,7 +1,5 @@
-# THIS PROJECT IS MADE UNDER HACK-A-MINER 
+# THIS PROJECT IS MADE DURING HACK-A-MINER 
 
-
-/.././././
 
 # Getting Started with Create React App
 
