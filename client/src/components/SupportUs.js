@@ -83,10 +83,6 @@ export default function SupportUs() {
         </footer>
       </div>
     </form>
-<<<<<<< HEAD
     </>
-=======
-</>
->>>>>>> e8c1aedb2540a3f2606719c5ec43e35aa6928b97
   );
 }
